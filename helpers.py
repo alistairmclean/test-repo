@@ -4,6 +4,7 @@ import itertools
 from collections import Counter
 import tensorflow as tf
 
+#test
 # map a label to a string
 label2str = {1: "PER", 2: "LOC", 3: "ORG", 4: "MISC", 5: "O"}
 
